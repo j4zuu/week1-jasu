@@ -10,6 +10,6 @@
   "scripts": {
     "test": "nodemon script.js"
   },
-  "author": "",
+  "author": "Jasu",
   "license": "ISC"
 }

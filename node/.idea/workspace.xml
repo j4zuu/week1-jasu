@@ -10,7 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd2e9eb3-200d-4bc3-9bb4-74f728a5bd7a" name="Default Changelist" comment="" />
+    <list default="true" id="fd2e9eb3-200d-4bc3-9bb4-74f728a5bd7a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server-one/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../server-one/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server-one/public/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../server-one/public/js/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +40,7 @@
     <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../week2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -50,6 +54,7 @@
       <updated>1603096488077</updated>
       <workItem from="1603096489494" duration="3176000" />
       <workItem from="1603433889977" duration="545000" />
+      <workItem from="1603635367973" duration="283000" />
     </task>
     <servers />
   </component>
@@ -66,6 +71,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1499" y="458" key="FileChooserDialogImpl" timestamp="1603434436784">
